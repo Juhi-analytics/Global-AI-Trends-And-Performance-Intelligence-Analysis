@@ -38,6 +38,11 @@ Project Workflow
 
 
 📈 Key Insights
+
+
+Analyzed $26.9T global AI investment and 1.33M startups across 15+ countries (2015–2026) using SQL and Power BI, identifying key trends in AI adoption, performance, and ecosystem efficiency.
+Built advanced analytical models using SQL (window functions, aggregations) and Power BI (DAX, dashboards) to rank global AI leaders, consistently identifying China and the USA as dominant AI economies.
+Delivered data-driven insights revealing that investment alone does not drive AI performance, with balanced ecosystems outperforming high-investment regions and emerging markets showing the fastest growth trends.
 High AI investment does not always guarantee high performance
 Enterprise AI adoption strongly correlates with growth
 Countries with balanced infrastructure, policy, and talent perform best
